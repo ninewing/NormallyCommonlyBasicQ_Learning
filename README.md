@@ -1,3 +1,2 @@
 # NormallyCommonlyBasicQ_Learning
-
-FrozenLakeในgymครับ ใช้แค่Q-learningปกติๆธรรมดาๆจริงๆครับ พิเศษตรงที่ผมเป็นคนเขียน
+Solving really really basicly tabular problem call FrozenLake(gym) by using Q-learning formula and numpy array to collecing q-value of each stage.  
